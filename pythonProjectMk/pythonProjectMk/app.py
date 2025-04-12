@@ -15,7 +15,7 @@ def index():
 def predict_crop():
     Nitrogen = request.form.get('Nitrogen')
     Phosphorus = request.form.get('Phosphorus')
-    Potassium = request.form.get('Potassium')
+    Potassium = request.form.get('Potassium') 
     Temperature = request.form.get('Temperature')
     Humidity = request.form.get('Humidity')
     pH = request.form.get('pH')
