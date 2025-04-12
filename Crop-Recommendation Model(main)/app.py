@@ -14,7 +14,7 @@ def predict_crop():
     Phosphorus = request.form.get('Phosphorus')
     Potassium = request.form.get('Potassium') 
     Temperature = request.form.get('Temperature')
-    Humidity = request.form.get('Humidity')
+    Humidity = request.form.get('Humidity') 
     pH = request.form.get('pH')
     Rainfall = request.form.get('Rainfall')
 
