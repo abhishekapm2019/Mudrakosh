@@ -13,7 +13,7 @@ var zkSignature = (function () {
             parent.appendChild(canvasArea);
 
             var canvas = document.getElementById("newSignature");
-            var context = canvas.getContext("2d");
+            var context = canvas.getContext("2d"); 
  
             if (!context) {
                 throw new Error("Failed to get canvas' 2d context");
