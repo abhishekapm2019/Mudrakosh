@@ -12,7 +12,7 @@ firebase.auth().onAuthStateChanged(user => {
     if (user) {
         this.user = user;
 
-        username.innerHTML = user.displayName;
+        username.innerHTML = user.displayName; 
     }
     else {
         console.log("abc")
