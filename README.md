@@ -10,7 +10,7 @@ Therefore, to eliminate these and consequent problems, MudraKosh aims to provide
 * 100% digital process
 * Reasonable interest rates for overall profit of all parties involved
 * Ensured security at all stages
-## What is MudraKosh?
+## What is MudraKosh? 
 * A proposal for a revolutionary system to deliver fast loans to individuals/MSMEs who are part of any industrial domain, including horticulture, textile, wood, etc.
 * The system acts as a direct mediator between the borrowers and lenders:
   * Borrowers apply for loan on the platform
